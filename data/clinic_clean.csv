@@ -1,0 +1,201 @@
+patient_id,site,sex,age,visit_date,bp_upper,bp_lower,weight_kg,notes
+PT-0001,site a,NA,70,2023-02-06,180,64,79.1,stable
+PT-0002,site a,F,41,2023-09-13,97,74,65.3,follow up
+PT-0003,site a,NA,55,2023-12-12,133,72,82.1,NA
+PT-0004,site a,F,37,2023-06-26,133,70,62.5,stable
+PT-0005,site b,M,50,2023-07-29,101,62,50.4,discharged
+PT-0006,site d,F,53,2023-11-11,98,75,84.9,follow up
+PT-0007,site b,F,62,2023-04-28,177,91,72.2,discharged
+PT-0008,site b,F,39,2023-09-30,156,77,111.9,stable
+PT-0009,site a,M,61,2023-02-08,92,104,81,stable
+PT-0010,site d,M,81,2023-07-23,115,101,82.6,discharged
+PT-0011,site c,F,24,2023-08-10,96,56,79.2,follow up
+PT-0012,site d,F,22,2023-06-12,116,109,62.8,discharged
+PT-0013,site c,M,48,2023-05-28,176,87,65.6,follow up
+PT-0014,site d,M,49,2023-01-08,133,82,82.7,NA
+PT-0015,site a,F,56,2023-10-03,138,85,82.7,follow up
+PT-0016,site a,NA,30,2023-06-05,168,82,77,follow up
+PT-0017,site b,F,47,2023-04-07,136,96,58.2,discharged
+PT-0018,site d,F,71,2023-07-03,109,108,90.2,stable
+PT-0019,site b,F,19,2023-02-15,180,63,53.6,follow up
+PT-0020,site b,NA,45,2023-12-07,NA,NA,64.8,follow up
+PT-0021,site c,F,20,2023-09-05,108,71,97.9,follow up
+PT-0022,site c,M,50,2023-07-03,155,99,76.3,NA
+PT-0023,site a,F,26,2023-04-08,111,60,81.6,follow up
+PT-0024,site a,F,71,2023-11-14,126,66,74.5,stable
+PT-0025,site c,M,27,2023-03-10,139,73,58,follow up
+PT-0026,site d,NA,88,2023-09-25,122,87,62.8,follow up
+PT-0027,site a,M,42,2023-09-16,157,65,72,follow up
+PT-0028,site c,M,NA,2023-01-18,171,82,34.9,stable
+PT-0029,site a,M,90,2023-08-30,151,81,59.8,stable
+PT-0030,site a,M,36,2023-06-27,131,70,79.6,follow up
+PT-0031,site d,F,63,2023-04-25,145,68,66.4,discharged
+PT-0032,site b,M,20,2023-01-30,114,105,66.6,NA
+PT-0033,site d,M,39,2023-05-28,NA,NA,80.4,follow up
+PT-0034,site d,M,78,2023-11-03,103,77,63.5,follow up
+PT-0035,site c,F,37,2023-06-11,150,91,77.5,NA
+PT-0036,site b,NA,59,2023-10-04,180,94,NA,follow up
+PT-0037,site a,M,34,2023-06-29,163,107,55.3,discharged
+PT-0038,site b,NA,63,2023-03-24,NA,NA,49.9,discharged
+PT-0039,site d,F,34,2023-05-05,163,102,71,follow up
+PT-0040,site b,F,NA,2023-08-23,110,98,67.5,stable
+PT-0041,site c,M,54,2023-03-23,130,101,87.3,follow up
+PT-0042,site c,F,62,2023-02-09,128,61,69.5,NA
+PT-0043,site b,M,67,2023-10-07,159,87,86.2,stable
+PT-0044,site b,M,68,2023-06-06,141,78,93.3,stable
+PT-0045,site d,F,NA,2023-10-05,117,69,64.1,follow up
+PT-0046,site d,F,65,2023-08-03,97,62,74.7,follow up
+PT-0047,site d,M,51,2023-08-24,120,60,59.9,stable
+PT-0048,site b,M,75,2023-05-28,179,97,78.9,discharged
+PT-0049,site b,F,85,2023-06-28,151,88,57,follow up
+PT-0050,site a,F,78,2023-10-22,113,87,57.7,follow up
+PT-0051,site d,M,50,2023-01-09,126,84,NA,stable
+PT-0052,site a,M,36,2023-11-15,147,106,71.1,stable
+PT-0053,site d,M,87,2023-07-09,172,91,73.2,stable
+PT-0054,site b,F,47,2023-01-19,173,91,70.8,discharged
+PT-0055,site d,M,19,2023-01-21,100,97,63.7,stable
+PT-0056,site b,M,55,2023-12-29,180,81,68.4,stable
+PT-0057,site c,M,26,2023-12-20,160,81,89.4,stable
+PT-0058,site d,F,73,2023-06-26,145,103,69.8,follow up
+PT-0059,site c,F,23,2023-11-20,133,71,54.2,follow up
+PT-0060,site a,F,48,2023-04-25,93,71,59.9,discharged
+PT-0061,site a,M,86,2023-11-17,120,109,56.8,stable
+PT-0062,site b,M,31,2023-04-02,141,80,59.2,NA
+PT-0063,site b,M,81,2023-12-03,124,84,54.9,stable
+PT-0064,site b,F,64,2023-07-04,150,81,38.5,stable
+PT-0065,site b,F,82,2023-06-04,150,73,78,NA
+PT-0066,site b,M,58,2023-06-03,154,67,77.9,NA
+PT-0067,site d,NA,27,2023-02-26,137,72,67,discharged
+PT-0068,site c,M,66,2023-08-01,94,64,61.3,follow up
+PT-0069,site b,F,39,2023-08-20,NA,NA,60.3,follow up
+PT-0070,site a,NA,18,2023-10-18,132,103,74.8,discharged
+PT-0071,site b,M,21,2023-07-05,154,82,72.7,discharged
+PT-0072,site c,M,84,2023-01-13,177,75,75.1,stable
+PT-0073,site b,F,76,2023-04-08,122,64,70.1,stable
+PT-0074,site b,M,70,2023-08-16,NA,NA,77.4,NA
+PT-0075,site b,NA,55,2023-10-24,156,65,75.2,NA
+PT-0076,site d,M,76,2023-12-14,158,67,76.7,follow up
+PT-0077,site a,M,86,2023-12-18,128,100,76,discharged
+PT-0078,site a,F,59,2023-04-20,159,99,89.9,follow up
+PT-0079,site a,F,79,2023-01-27,169,61,57.3,follow up
+PT-0080,site c,F,37,2023-12-19,102,94,88.1,stable
+PT-0081,site d,F,51,2023-09-13,NA,NA,66,NA
+PT-0082,site a,M,74,2023-03-06,139,68,69.2,follow up
+PT-0083,site b,M,37,2023-03-19,99,59,71,follow up
+PT-0084,site a,F,26,2023-09-01,NA,NA,64.6,NA
+PT-0085,site a,M,44,2023-02-27,169,105,39.4,NA
+PT-0086,site d,M,63,2023-09-02,170,77,66.2,stable
+PT-0087,site d,F,63,2023-01-28,91,100,70.5,follow up
+PT-0088,site a,M,20,2023-10-15,168,73,49.1,stable
+PT-0089,site c,M,80,2023-12-27,176,101,76.6,discharged
+PT-0090,site c,M,35,2023-06-07,180,102,62.8,follow up
+PT-0091,site a,NA,27,2023-06-14,129,57,87.4,NA
+PT-0092,site d,M,57,2023-09-02,NA,NA,73.2,NA
+PT-0093,site a,M,70,2023-12-20,123,92,60.5,stable
+PT-0094,site d,F,87,2023-06-01,138,93,72,follow up
+PT-0095,site d,M,46,2023-06-21,NA,NA,73.1,NA
+PT-0096,site b,M,85,2023-02-03,132,99,80.9,discharged
+PT-0097,site a,M,26,2023-05-05,147,96,68.1,discharged
+PT-0098,site d,F,57,2023-10-11,126,96,45.6,follow up
+PT-0099,site b,M,NA,2023-10-31,111,82,54.4,follow up
+PT-0100,site b,M,71,2023-01-18,92,89,59.7,stable
+PT-0101,site b,F,74,2023-05-30,167,78,75.1,stable
+PT-0102,site d,F,44,2023-06-03,105,106,66.6,discharged
+PT-0103,site a,M,45,2023-02-18,163,103,62.6,follow up
+PT-0104,site b,M,32,2023-07-31,116,104,59.9,stable
+PT-0105,site a,NA,40,2023-12-17,161,71,71.8,follow up
+PT-0106,site b,F,78,2023-12-26,NA,NA,59.8,NA
+PT-0107,site d,F,27,2023-01-30,98,96,65.2,stable
+PT-0108,site c,M,30,2023-03-13,127,94,58.7,discharged
+PT-0109,site d,M,79,2023-02-27,NA,NA,53.3,follow up
+PT-0110,site a,M,18,2023-06-15,119,77,81.5,NA
+PT-0111,site d,M,28,2023-04-09,178,67,NA,discharged
+PT-0112,site a,F,43,2023-11-17,162,94,70.9,stable
+PT-0113,site d,F,NA,2023-06-24,126,81,63.2,stable
+PT-0114,site c,M,25,2023-01-04,170,106,57.3,follow up
+PT-0115,site b,M,87,2023-02-10,109,91,73.1,stable
+PT-0116,site b,F,NA,2023-12-19,156,71,74.5,stable
+PT-0117,site c,M,42,2023-07-17,106,79,85.2,follow up
+PT-0118,site a,F,41,2023-10-03,NA,NA,73.9,follow up
+PT-0119,site a,F,33,2023-05-17,164,94,NA,follow up
+PT-0120,site b,F,20,2023-04-02,97,82,101.2,stable
+PT-0121,site c,F,73,2023-06-01,128,73,62.2,follow up
+PT-0122,site d,F,38,2023-05-30,142,67,58,follow up
+PT-0123,site d,M,84,2023-09-24,109,87,63.6,follow up
+PT-0124,site b,M,27,2023-07-29,150,66,68.7,follow up
+PT-0125,site d,F,24,2023-12-29,112,55,77.2,follow up
+PT-0126,site a,F,36,2023-05-27,145,92,75,stable
+PT-0127,site a,F,46,2023-12-29,122,73,68.7,stable
+PT-0128,site d,NA,62,2023-10-23,149,99,59.7,follow up
+PT-0129,site a,M,59,2023-08-30,108,73,83.5,stable
+PT-0130,site a,M,63,2023-08-13,169,91,81,NA
+PT-0131,site a,F,41,2023-11-07,139,77,61.3,stable
+PT-0132,site b,M,47,2023-06-15,99,81,78.2,stable
+PT-0133,site c,M,62,2023-02-03,163,85,NA,follow up
+PT-0134,site a,F,59,2023-08-26,108,76,82.5,discharged
+PT-0135,site b,F,56,2023-08-17,166,67,71.8,follow up
+PT-0136,site d,F,69,2023-01-01,176,68,56.3,stable
+PT-0137,site d,F,70,2023-12-16,129,100,79.6,follow up
+PT-0138,site a,M,60,2023-02-26,NA,NA,61.3,stable
+PT-0139,site c,NA,60,2023-11-07,128,106,76.3,follow up
+PT-0140,site b,M,43,2023-11-12,149,98,NA,discharged
+PT-0141,site a,F,79,2023-07-15,128,74,53,follow up
+PT-0142,site a,M,23,2023-03-12,126,62,88.7,NA
+PT-0143,site b,M,75,2023-05-22,154,97,86.2,discharged
+PT-0144,site a,F,40,2023-01-10,140,68,63.7,stable
+PT-0145,site a,M,59,2023-03-10,145,56,67,stable
+PT-0146,site c,M,58,2023-12-10,139,68,61.8,follow up
+PT-0147,site d,F,77,2023-06-15,112,110,63.2,stable
+PT-0148,site b,F,62,2023-05-13,127,84,77,follow up
+PT-0149,site c,NA,50,2023-10-04,142,64,59.2,follow up
+PT-0150,site b,F,28,2023-03-04,125,56,67.7,follow up
+PT-0151,site b,F,62,2023-08-30,150,107,68.3,stable
+PT-0152,site d,F,31,2023-02-04,101,96,68.8,follow up
+PT-0153,site a,M,19,2023-09-16,95,86,72.2,stable
+PT-0154,site c,M,62,2023-07-20,170,57,89.2,follow up
+PT-0155,site a,M,52,2023-10-28,90,110,64.6,follow up
+PT-0156,site a,F,45,2023-04-01,148,88,60.5,discharged
+PT-0157,site a,F,62,2023-10-12,145,82,79.5,NA
+PT-0158,site c,F,33,2023-08-07,173,82,74.6,follow up
+PT-0159,site c,F,62,2023-10-25,115,84,72.8,discharged
+PT-0160,site d,F,25,2023-01-17,146,64,77.1,NA
+PT-0161,site a,F,89,2023-01-20,172,79,53.1,stable
+PT-0162,site b,F,54,2023-03-17,145,101,82.8,follow up
+PT-0163,site b,M,27,2023-03-29,92,73,75.4,follow up
+PT-0164,site c,F,77,2023-06-07,134,66,81.4,discharged
+PT-0165,site b,F,40,2023-08-02,108,72,62.8,stable
+PT-0166,site d,F,50,2023-06-28,139,85,47.9,NA
+PT-0167,site c,F,32,2023-04-22,173,108,64.2,stable
+PT-0168,site c,F,85,2023-06-10,103,72,59.1,discharged
+PT-0169,site b,F,77,2023-04-16,111,97,96.7,follow up
+PT-0170,site a,M,27,2023-05-15,135,63,65,stable
+PT-0171,site d,M,89,2023-01-25,96,62,67.4,follow up
+PT-0172,site a,M,62,2023-01-24,136,95,82.8,follow up
+PT-0173,site d,M,72,2023-09-12,144,62,77.4,stable
+PT-0174,site b,M,65,2023-11-18,NA,NA,78.1,follow up
+PT-0175,site a,M,25,2023-10-19,132,62,NA,stable
+PT-0176,site b,F,20,2023-09-21,163,64,72,follow up
+PT-0177,site c,M,65,2023-07-25,138,64,92.9,follow up
+PT-0178,site b,M,30,2023-05-25,114,88,73,discharged
+PT-0179,site b,M,35,2023-07-05,163,65,52.5,stable
+PT-0180,site d,NA,22,2023-08-29,119,107,43.3,follow up
+PT-0181,site b,F,48,2023-05-25,116,96,77.8,discharged
+PT-0182,site b,F,73,2023-03-21,NA,NA,58,NA
+PT-0183,site b,F,37,2023-12-18,131,74,70.5,stable
+PT-0184,site c,M,84,2023-06-29,150,56,91.3,discharged
+PT-0185,site b,F,25,2023-01-25,162,85,74.2,stable
+PT-0186,site d,NA,36,2023-07-14,NA,NA,66.6,follow up
+PT-0187,site d,M,27,2023-05-22,180,64,46.9,discharged
+PT-0188,site c,F,78,2023-02-25,161,108,60.4,discharged
+PT-0189,site b,M,29,2023-06-21,172,100,63.1,NA
+PT-0190,site b,M,52,2023-07-02,160,105,78.2,NA
+PT-0191,site c,NA,69,2023-08-26,179,86,75.8,stable
+PT-0192,site d,F,49,2023-03-08,105,90,70.2,NA
+PT-0193,site b,F,78,2023-06-13,161,102,72.2,follow up
+PT-0194,site d,M,71,2023-10-18,112,69,66.5,stable
+PT-0195,site d,M,51,2023-02-08,174,77,70.4,discharged
+PT-0196,site b,F,18,2023-07-07,149,78,73.3,stable
+PT-0197,site a,F,24,2023-09-05,169,79,75.4,stable
+PT-0198,site a,F,28,2023-10-20,132,65,91.9,follow up
+PT-0199,site b,F,80,2023-12-08,146,73,NA,stable
+PT-0200,site d,M,32,2023-10-12,116,96,87.7,discharged
